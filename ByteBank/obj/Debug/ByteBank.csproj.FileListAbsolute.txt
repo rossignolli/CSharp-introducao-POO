@@ -1,0 +1,6 @@
+C:\Users\Vigarani\Desktop\csharppoo2-master\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Users\Vigarani\Desktop\csharppoo2-master\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\Vigarani\Desktop\csharppoo2-master\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\Vigarani\Desktop\csharppoo2-master\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\Vigarani\Desktop\csharppoo2-master\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\Vigarani\Desktop\csharppoo2-master\ByteBank\obj\Debug\ByteBank.pdb
